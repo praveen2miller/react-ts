@@ -1,7 +1,7 @@
 import React , {useState} from 'react';
 import './App.css';
 import List from "./List"
-import AddList from './AddList';
+import AddList from './AddList'
 
 export interface IState {
   people:{
